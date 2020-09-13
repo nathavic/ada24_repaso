@@ -22,6 +22,7 @@ window.onkeypress = (e) => {
             // asignar color al body 
         console.log(color)
         body.style.backgroundColor = color
+            // error style
     }
 }
 
